@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c921ac1-d7d5-4fba-8c1f-1cbba9f4e586" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6c921ac1-d7d5-4fba-8c1f-1cbba9f4e586" name="Default Changelist" comment="真行提交">
       <change beforePath="$PROJECT_DIR$/jzpNB.txt" beforeDir="false" afterPath="$PROJECT_DIR$/jzpNB.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665386454147</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="真行提交">
+      <created>1665459000682</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665459000683</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -218,7 +223,8 @@
     <MESSAGE value="第8次提交" />
     <MESSAGE value="JIAOZEPENG提交" />
     <MESSAGE value="zqw提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="zqw提交" />
+    <MESSAGE value="真行提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="真行提交" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/admin/src/pages/Account.vue">
